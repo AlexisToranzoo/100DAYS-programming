@@ -10,5 +10,3 @@ BUT i solved this !, Using
 position : relative
 
 on the CSS file for some objects, and then it fixed !
-
-
